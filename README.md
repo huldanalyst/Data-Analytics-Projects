@@ -1,6 +1,7 @@
 # Data Analytics Projects
 Find all Data Analytics projects here.
----
+
+---------
 
 ## Microsot Excel and MySQL 
 
