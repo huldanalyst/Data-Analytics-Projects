@@ -19,4 +19,4 @@ This set of projects demonstrates the use of Microsoft Excel and MySQL for analy
 
 #### Microsoft Excel and MySQL Projects
 ##### Navigate through the following data analytics projects developed with Microsoft Excel and MySQL:
-- [HR Analytics](https://github.com/huldanalyst/HR-Analytics?tab=readme-ov-file#hr-analytics) 
+- [HR Analytics](https://github.com/huldanalyst/HR-Analytics?tab=readme-ov-file#hr-analytics) - Gain key insights into employee management through HR analytics—exploring performance, satisfaction, turnover, recruitment, and training trends within an organization.
