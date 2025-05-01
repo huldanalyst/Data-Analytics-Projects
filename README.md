@@ -17,5 +17,5 @@ This set of projects demonstrates the use of Microsoft Excel and MySQL for analy
 - Data importation and connection to Microsoft Excel 
 - Visualization of insights through an interactive Excel dashboard
 
-
+#### Project Structure
 
