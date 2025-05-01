@@ -19,3 +19,4 @@ This set of projects demonstrates the use of Microsoft Excel and MySQL for analy
 
 #### Project Structure
 
+[HR Analytics](https://github.com/huldanalyst/HR-Analytics?tab=readme-ov-file#hr-analytics)
