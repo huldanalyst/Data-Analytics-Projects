@@ -1,5 +1,5 @@
 # Data Analytics Projects
-*Find all Data Analytics projects here.*
+Find all Data Analytics projects here.
 
 
 ## Microsoft Excel and MySQL Projects
