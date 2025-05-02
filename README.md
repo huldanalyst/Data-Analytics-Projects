@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# Data Analytics Projects :chart_with_upwards_trend:
 Find all Data Analytics projects here.
 
 
