@@ -4,6 +4,8 @@ Find all Data Analytics projects here.
 
 ## Microsoft Excel and MySQL Projects :bar_chart::file_cabinet:
 
+[Skip to projects](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#microsoft-excel-and-mysql-projects)
+
 #### Overview
 This set of projects demonstrates the use of Microsoft Excel and MySQL for analyzing and visualizing data. It includes SQL queries for data extraction and transformation, and an Excel dashboard for interactive reporting.
 
