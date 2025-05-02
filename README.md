@@ -1,8 +1,8 @@
-# Data Analytics Projects :chart_with_upwards_trend:
+# Data Analytics Projects :card_file_box:
 Find all Data Analytics projects here.
 
 
-## Microsoft Excel and MySQL Projects
+## Microsoft Excel and MySQL Projects :bar_chart::file_cabinet:
 
 #### Overview
 This set of projects demonstrates the use of Microsoft Excel and MySQL for analyzing and visualizing data. It includes SQL queries for data extraction and transformation, and an Excel dashboard for interactive reporting.
